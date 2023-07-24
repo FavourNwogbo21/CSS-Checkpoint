@@ -1,0 +1,15 @@
+.top-left-header {
+    text-align: left;
+    padding: 6px;
+    margin: 0 6px;
+    display: inline-block;
+    
+}
+
+.top-right-header {
+    align-items: right;
+    padding: 6px;
+    margin: 0 6px;
+    display: inline-block;
+    
+}
